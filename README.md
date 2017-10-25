@@ -18,7 +18,7 @@ e.g.:
 
 Scene 4 has hardware built-in latching buttons, nanok sends 0/1 toggle values, according to the hardware on/off LEDs
 
-bg = Button Gate, sends a "1" until the key remains pressed, a 0 when it´is unpressed
+**bg** = Button Gate, sends a "1" until the key remains pressed, a 0 when it´is unpressed
 
 e.g.:
 
