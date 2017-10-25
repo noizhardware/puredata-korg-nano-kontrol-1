@@ -4,8 +4,9 @@
 ## Abstraction for Korg Nano Kontrol 1
 
 
-This abstraction sends data from the Korg Nano Kontrol version 1 in the format s(scenenumber)[letter][number]
-[letter] is: b=button f=fader p=potentiometer
+This abstraction sends data from the Korg Nano Kontrol version 1 in the format **_s(scenenumber)[letter][number]_**
+
+[letter] is: **b**=button **f**=fader **p**=potentiometer
 
 e.g.:
 
