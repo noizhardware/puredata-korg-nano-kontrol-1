@@ -8,7 +8,8 @@ This abstraction sends data from the Korg Nano Kontrol version 1 in the format *
 
 [letter] is: **b**=button **f**=fader **p**=potentiometer
 
-**to receive and use the data, create a receive object, like [r s1b3]**
+* **to receive and use the data, create a receive object, like [r s1b3]**
+* **standard button press are sent as single bangs, no release**
 
 e.g.:
 
