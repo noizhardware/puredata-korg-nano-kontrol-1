@@ -13,7 +13,7 @@ This abstraction sends data from the Korg Nano Kontrol version 1 in the format *
 
 e.g.:
 
-- s1b3 is button 3 of scene 1
+- s1b3 is button 3, scene 1
 
 - s2f4 is fader 4, scene 2
 
